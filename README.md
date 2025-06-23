@@ -1,6 +1,8 @@
-# Dynamic-Tutorial-Updater
+This Repository hosts a WIP idea, exercise caution while forking/cloining/downloading the code.
 
-**Dynamic-Tutorial-Updater** is a concept for an AI-powered tool that helps learners follow older instructional videos by automatically detecting where content is outdated and providing updated explanations. The idea is to make sure that even if a tutorial was created years ago, people can still use it confidently with the most current knowledge.
+# FreshKnowledge a Dynamic-Tutorial-Updater
+
+**FreshKnowledge** is a concept for an AI-powered tool that helps learners follow older instructional videos by automatically detecting where content is outdated and providing updated explanations. The idea is to make sure that even if a tutorial was created years ago, people can still use it confidently with the most current knowledge.
 
 ---
 
